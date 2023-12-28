@@ -1,0 +1,11 @@
+---
+title: "MT Cars Plots"
+output: html_document
+date: "2023-12-28"
+---
+
+```{r}
+plot(mtcars$hp)
+```
+
+##added plot
